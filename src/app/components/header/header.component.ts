@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
   title: string = 'My Task List';
+
+  // Función para agregar tarea
+  toggleAddTask(){
+    
+  }
 }
