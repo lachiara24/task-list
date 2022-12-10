@@ -23,6 +23,12 @@
       "text": "Escuchar podcast",
       "day": "12 de Diciembre",
       "reminder": false
+    },
+    {
+      "text": "Comprar pan",
+      "day": "Mañana",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
