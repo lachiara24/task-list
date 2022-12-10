@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "text": "Terminar modulo de Angular",
+            "day": "Hoy",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Limpiar ventilador",
+            "day": "Hoy",
+            "reminder": false
+        }
+    ]
+}
